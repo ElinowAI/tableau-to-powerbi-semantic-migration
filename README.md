@@ -1,7 +1,3 @@
-✅ README.md – version prête pour GitHub
-
-(tu peux copier/coller dès que tu confirmes le nom du repo)
-
 🟣 Tableau → Power BI Semantic Model Migration
 Automated framework to translate Tableau formulas, metadata & semantic structure into Power BI
 
